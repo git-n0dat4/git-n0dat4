@@ -3,6 +3,7 @@
 
 Social Network: 
 
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angheloflrs/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/anghelo_flores) 
 
 🖥️  See my portfolio at :
@@ -13,6 +14,7 @@ Social Network:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n0dat4@duck.com) 
 
+![Metrics](/github-metrics.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -79,3 +81,4 @@ Social Network:
 
 </div>
 -->
+
