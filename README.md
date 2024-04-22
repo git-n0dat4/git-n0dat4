@@ -1,12 +1,11 @@
-![Banner](github-header-image.png)
-
 <div align="center">
+
+![Banner](github-header-image.png)
 
 | | |
 |-|-|
-| Social Network: <div style="height: 5px;"></div> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angheloflrs/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/anghelo_flores) <div style="height: 5px;"></div> 🖥️  See my portfolio at : <div style="height: 5px;"></div> [![GitHub](GitBook.png)](https://n0dat4.gitbook.io/n0dat4) <div style="height: 5px;"></div> ✉️ You can contact me at : <div style="height: 5px;"></div> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n0dat4@duck.com) | <div style="height: 45px;"></div> ![Metrics](/github-metrics.svg) 
+| <p align="left"> Social Network:</p> </div> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angheloflrs/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/anghelo_flores) <div style="height: 5px;"></div>  <p align="left"> 🖥️  See my portfolio at : </p> <div style="height: 5px;"></div> [![GitHub](GitBook.png)](https://n0dat4.gitbook.io/n0dat4) <div style="height: 5px;"></div> <p align="left"> ✉️ You can contact me at : </p> <div style="height: 5px;"></div> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n0dat4@duck.com) | <div style="height: 45px;"></div> ![Metrics](/github-metrics.svg) 
 | | |
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
