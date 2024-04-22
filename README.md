@@ -2,19 +2,21 @@
 
 ![Banner](github-header-image.png)
 
-
-### !whoami
-
 <div align="left"> 
 I am passionate about cybersecurity with a primary focus on protecting and securing digital systems. I am always learning about cybersecurity threats to ensure the security of systems. <br>
 In addition to my passion for cybersecurity, I have experience in web and mobile application development. <br>
 My goal is to use my cybersecurity and development skills to create a safer digital environment and protect users' information and privacy.
 </div>
 
-| <h4 align="center"> Social Network </h4> | <h4 align="center"> 🖥️  My portfolio at </h4> | <h4 align="center"> ✉️ Contact me at </h4> |  
-| :---: | :---: | :---: |
-| [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angheloflrs/)  <br> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/anghelo_flores) | [![GitHub](GitBook.png)](https://n0dat4.gitbook.io/n0dat4) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n0dat4@duck.com) | 
+<h3 align="center">Social Networks</h3>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angheloflrs/) &nbsp; [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/anghelo_flores) 
+
+| <h4 align="center"> 🖥️  My portfolio at </h4> | <h4 align="center"> ✉️ Contact me at </h4> |  
+| :---: | :---: |
+| [![GitHub](GitBook.png)](https://n0dat4.gitbook.io/n0dat4) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n0dat4@duck.com) | 
+
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=git-n0dat4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-n0dat4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  /> 
 
