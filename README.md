@@ -10,7 +10,7 @@ My goal is to use my cybersecurity and development skills to create a safer digi
 
 <h3 align="center">Social Networks</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angheloflrs/) &nbsp; [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/_ndat4) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_ndat4/) &nbsp; [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/anghelo_flores) 
 
 | <h4 align="center"> ✉️ Contact me at </h4> |  
 | :---: |
